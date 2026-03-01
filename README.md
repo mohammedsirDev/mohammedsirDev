@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Mohammed Sir
 
-<!--
-**mohammedsirDev/mohammedsirDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | Full-Stack Developer
 
-Here are some ideas to get you started:
+I genuinely love programming and building real-world systems that solve practical problems.
+I focus on backend development with Django, clean architecture, and structured business logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning React.js and preparing to move into DevOps and cloud engineering.
+
+🛠 Tech Stack
+
+Django • ASP.NET • PHP • JavaScript • Bootstrap
+SQL Server • MySQL • SQLite
+Git • GitHub
+
+🚀 What I Bring
+
+Strong backend problem-solving skills
+
+Experience building complete full-stack projects
+
+Clean, maintainable code
+
+Fast learner with a growth mindset
+
+Passion for continuous improvement
+
+📫 Contact
+
+📧 worksir99@gmail.com
+
+🔗 linkedin.com/in/mohammed-sir-6639b8318
+💻 github.com/mohammedsirDev
