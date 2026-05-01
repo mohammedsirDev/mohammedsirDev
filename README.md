@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohammed Sir
 
-🎓 **Software Engineering Student** | **Full-Stack Developer** | **Co-Founder of [Parcelo](https://parcelo.app)**
+🎓 **Bachelor's in Software Engineering · Ibn Tofail University** | **Full-Stack Developer** | **Co-Founder of [Parcelo](https://parcelo.app)**
 
-I love building real-world systems that solve practical problems. From API design and database architecture to deployment and client communication — I own the full project lifecycle. Currently completing my Licence Professionnelle in Software Engineering at Ibn Tofail University (2026).
+I love building real-world systems that solve practical problems. From API design and database architecture to deployment and client communication — I own the full project lifecycle.
 
 ---
 
