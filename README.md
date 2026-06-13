@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mohammed Sir
+# Hi, I'm Mohammed Sir 👋
 
-🎓 **Bachelor's in Software Engineering · Ibn Tofail University** | **Full-Stack Developer** | **Co-Founder of [Parcelo](https://parcelo.online)**
+**Full-Stack Developer · Co-Founder of [Parcelo](https://parcelo.online) · Based in Morocco**
 
-I love building real-world systems that solve practical problems. From API design and database architecture to deployment and client communication — I own the full project lifecycle.
+I build real-world systems that solve practical problems — from API design and database architecture to deployment and client communication. I own the full project lifecycle.
 
 ---
 
@@ -21,7 +21,10 @@ I love building real-world systems that solve practical problems. From API desig
 `JWT` `Google OAuth` `OTP Email Verification` `RBAC`
 
 **DevOps & Tools**
-`Vercel` `Render` `PythonAnywhere` `Cloudinary` `Git` `GitHub`
+`Docker` `Docker Compose` `Nginx` `AWS (EC2)` `GitHub Actions (CI/CD)` `Render` `Vercel` `PythonAnywhere` `Cloudinary` `Git` `GitHub`
+
+**Testing & Quality**
+`pytest` `TDD` `Django Test Client` `Unit & Integration Tests`
 
 **Integrations**
 `WhatsApp API (WeSendAPI)` `Celery` `Redis` `Task Schedulers` `External APIs`
@@ -30,18 +33,18 @@ I love building real-world systems that solve practical problems. From API desig
 
 ## 🚀 What I Bring
 
-- 15+ custom web applications delivered end-to-end for real clients
+- **15+ custom web applications** delivered end-to-end for real clients across Morocco and remotely
 - Automation systems that saved clients **20+ hours/month** in manual work
 - Full project ownership — requirements → architecture → deployment → support
-- Strong backend problem-solving with clean, maintainable code
+- Strong backend problem-solving with clean, well-tested, maintainable code
 - Fast learner with a growth mindset and a passion for continuous improvement
 
 ---
 
 ## 🔥 Featured Projects
 
-### [Parcelo](https://parcelo.app) — E-Commerce Automation for Moroccan Sellers
-> Co-Founder & Developer · Django REST Framework · React.js · PostgreSQL · WhatsApp API · Cloudinary · Render
+### [Parcelo](https://parcelo.online) — E-Commerce Automation for Moroccan Sellers
+> Co-Founder & Developer · Django REST Framework · React.js · PostgreSQL (Neon) · WhatsApp API · Cloudinary · Render
 
 Built from firsthand frustration as a Moroccan e-commerce seller. Parcelo connects **Youcan Shop** with **QuickLivraison**, automatically sending WhatsApp order confirmations and shipping updates to buyers — eliminating manual copy-pasting and reducing support messages significantly.
 
@@ -50,17 +53,6 @@ Built from firsthand frustration as a Moroccan e-commerce seller. Parcelo connec
 - Automated post-shipping tracking updates sent directly to buyers
 - Secure auth: JWT + Google OAuth + OTP email verification
 
----
-
-### Clinic Management System — Freelance Client Project
-> Django REST Framework · React.js · SQLite · Token Authentication · [GitHub](https://github.com/mohammedsirDev)
-
-Full clinic management system actively used by a real medical practice across multiple roles.
-
-- 3-role system: Admin, Doctor, Assistant — with strict permission boundaries
-- Complete patient module: appointments, consultations, prescriptions, lab tests, chronic conditions
-- Replaced a fully paper-based workflow with a production-ready system
-- Deployed on client's local infrastructure; managed full delivery independently
 
 ---
 
@@ -70,10 +62,28 @@ Full clinic management system actively used by a real medical practice across mu
 Delivered 15+ web applications for e-commerce, internal operations, and business automation clients across Morocco and remotely.
 
 **Inventory Coordinator · Ficosa** *(2023 – Present)*
-Identified a manual invoicing workflow and built an internal web app to fully automate it — reducing billing errors to zero.
+Identified a fully manual invoicing workflow and built an internal web app to automate it end-to-end — reducing billing errors to zero.
 
 **Web Developer Intern · Ministry of Justice** *(4 months)*
 Built and deployed an internal app to digitize a paper-based administrative workflow used across government departments.
+
+---
+
+## 🎓 Education
+
+**Licence Professionnelle in Software Engineering** · Ibn Tofail University *(2025 – 2026)*
+
+**Diplôme in Développement Informatique** *(2021)*
+
+---
+
+## 📜 Certifications
+
+- **Build a Backend REST API with Python & Django — Advanced** ·
+  TDD, Docker, custom user models, filtering, image uploads, and production-ready API design.
+
+- **Claude 101** · Anthropic *(Issued Mar 2026 · ID: xpj3czxn4kjn)*
+  AI fundamentals and working effectively with large language models.
 
 ---
 
@@ -81,7 +91,6 @@ Built and deployed an internal app to digitize a paper-based administrative work
 
 📧 mohammed.sir@uit.ac.ma · worksir99@gmail.com
 🔗 [linkedin.com/in/mohammed-sir-6639b8318](https://linkedin.com/in/mohammed-sir-6639b8318)
-💻 [github.com/mohammedsirDev](https://github.com/mohammedsirDev)
 
 ---
 
